@@ -8,4 +8,6 @@
 
 # Demo
 
-https://github.com/zukentag/ChatHub/assets/90243158/c1f183d7-ab7d-4567-9c64-dd97eee9bf31
+
+https://github.com/6tyy9/Chat-Sphere/assets/143406896/e1cd496c-6ab7-44a4-a5e1-bf827086eab5
+
